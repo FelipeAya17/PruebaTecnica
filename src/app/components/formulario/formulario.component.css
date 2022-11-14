@@ -1,0 +1,13 @@
+.avatar{
+  width: 50px;
+}
+
+.table{
+  margin: 1rem;
+}
+.th1{
+  width: 40%;
+}
+.td1{
+  cursor: pointer;
+}
